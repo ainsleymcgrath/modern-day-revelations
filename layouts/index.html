@@ -1,16 +1,25 @@
 {{ define "main" }}
 <main aria-role="main">
-  <header class="homepage-header">
-    <h1>{{.Title}}</h1>
+  <header id="homepage-header">
+    <h1 id="homepage-title">{{.Title}}</h1>
   </header>
-  <div class="homepage-content">
-    {{.Content}}
+  <div id="homepage-blurb-container">
+    <article id="homepage-blurb-text">
+      {{.Content}}
+    </article>
   </div>
   <div>
-    <!-- there is only 1 page -->
-    {{ range first 1 .Pages }}
-      <a href={{ .URL }}>Read their stories</a>
-    {{ end }}
+    <div id="thumbnail-nav-bar">
+      {{ range .Site.RegularPages }}
+	<a href="{{ .Permalink }}">
+	  <img
+	    id="{{.Params.name }}-thumb"
+	    class="homepage-thumbnail"
+	    src="/thumbnails/{{ .Params.name }}_Sq.jpg"
+	  >
+	</a>
+      {{ end }}
+    </div>
   </div>
 </main>
 {{ end }}

@@ -3,9 +3,7 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="{{ relURL "styles.css" }}">
-    <title>{{ block "title" . }}
-      {{ .Site.Title }}
-    {{ end }}</title>
+    <title>{{ .Site.Title }}</title>
   </head>
   <body>
     {{ block "main" . }}

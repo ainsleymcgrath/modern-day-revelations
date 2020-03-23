@@ -26,6 +26,4 @@ Even to this day my mom still brings up, “Aren’t you glad you went to BYU, y
 
 Do I some have fond memories of my time at BYU? Yes I do. But at the core, being a homosexual in an ultra conservative environment where I was afraid of being expelled or exploited didn’t allow me to be my true self. It’s not a safe environment. 
 
-I’m lucky I turned out well because a lot of my friends there didn’t. 
-
-
+I’m lucky I turned out well because a lot of my friends there didn’t.  

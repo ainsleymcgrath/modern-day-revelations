@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main aria-role="main">
+  <header class="homepage-header">
+    <h1>{{.Title}}</h1>
+    <div id="thumbnail-nav-bar">
+      {{ range .Pages }}
+	<a href="#{{ .Params.name }}">
+	  <img id="{{.Params.name }}-thumb" class="thumnail-nav-item" src="/thumbnails/{{ .Params.name }}_Sq.jpg" height=100>
+	</a>
+      {{ end }}
+    </div>
+  </header>
+  <div class="homepage-content">
+    {{ range .Pages }}
+      <div class="revelation-container" id="{{ .Params.name }}-revelation-container">
+	<h2 id="{{ .Params.name }}-heading">{{ .Params.name }}</h2>
+	<img src="/portraits/{{ .Params.name }}.jpg" class="portrait">
+	<article id="{{ .Params.name }}-prose" class="prose">{{ .Content }}</article>
+	<hr>
+      </div>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
