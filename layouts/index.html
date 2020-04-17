@@ -1,25 +1,8 @@
 {{ define "main" }}
 <main aria-role="main">
-  <header id="homepage-header">
-    <h1 id="homepage-title">{{.Title}}</h1>
-  </header>
-  <div id="homepage-blurb-container">
-    <article id="homepage-blurb-text">
-      {{.Content}}
-    </article>
-  </div>
-  <div>
-    <div id="thumbnail-nav-bar">
-      {{ range .Site.RegularPages }}
-	<a href="{{ .Permalink }}">
-	  <img
-	    id="{{.Params.name }}-thumb"
-	    class="homepage-thumbnail"
-	    src="/thumbnails/{{ .Params.name }}_Sq.jpg"
-	  >
-	</a>
-      {{ end }}
-    </div>
-  </div>
+  {{ partial "homepage/hero.html" . }}
+  {{ partial "homepage/revelations-top-picks.html" . }}
+  {{ partial "homepage/promised-land-top-picks.html" . }}
 </main>
 {{ end }}
+

@@ -1,0 +1,9 @@
+<section id="revelations-top-picks-container" class="home-content-section">
+  {{ range .Site.RegularPages }}
+    {{ if in .Permalink "revelations" }} 
+      {{ partial "revelations/homepage-list-item" . }}
+    {{end}}
+  {{ end }}
+  <br><br>
+  <a href="/revelations">Read more revelations...</a>
+</section>

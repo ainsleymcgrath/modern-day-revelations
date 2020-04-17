@@ -1,3 +1,4 @@
+/* GLOBAL */ 
 @font-face {
   font-family: "TrajanPro";
   src: url("fonts/TrajanPro.otf");
@@ -12,38 +13,83 @@ body {
 
 main {
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   justify-content: center;
   flex-direction: column;
 }
 
-h1#homepage-title { 
-  font-family: "TrajanPro";
-  font-size: 5rem;
-  text-align: center;
-}
-
-header#homepage-header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-p, article {
+p, article, a, span {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 1.7rem;
 }
 
-div#homepage-blurb-container {
-  background-color: red;
-  width:  45vw;
+h1, h2, h3, h4, h5, title {
+  font-family: TrajanPro
 }
 
-img.homepage-thumbnail {
-  height: 100px;
-}
-
-img.portrait {
+/* HOMEPAGE */
+img#homepage-hero {
   max-width: 100vw;
 }
 
+section.home-content-section {
+  background-color: FFFEFE;
+}
+
+/* HOMEPAGE: REVELATIONS */
+section#revelations-top-picks-container {
+  margin: 15rem 0 15rem 0;
+  max-width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+div.homepage-revelation-dossier-container {
+  display: flex;
+  width: 100%;
+}
+
+div.dossier-thumbnail-container {
+  padding: 1.5rem 3rem 1.5rem 0rem;
+  margin-right: 2rem;
+  border-bottom: 1px solid #CCC;
+}
+
+img.dossier-thumbnail {
+  height: 100px;
+}
+
+div.dossier-prose-container {
+  margin-left: 2rem;
+}
+
+/* HOMEPAGE: PROMISED LAND */
+section#promised-land-top-picks-container {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+div#promised-land-top-picks-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 10rem;
+}
+
+div.promised-land-photo-container {
+  margin: 0 0 6rem 0;
+}
+
+img.promised-land-photo {
+  width: 90vw;
+}
+
+span.promised-land-photo-caption {
+  font-size: 1rem;
+}

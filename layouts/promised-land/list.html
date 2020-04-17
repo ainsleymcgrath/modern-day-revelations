@@ -1,0 +1,12 @@
+{{ define "main" }}
+<main aria-role="main">
+  <div>
+    {{ range .Pages }}
+      <article> {{ .Params.caption }}</article>
+      <a href="#{{ .Params.name }}">
+	<img src="{{ ( .Resources.GetMatch "photo" ).Permalink }}" style="max-width:50vw;">
+      </a>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
