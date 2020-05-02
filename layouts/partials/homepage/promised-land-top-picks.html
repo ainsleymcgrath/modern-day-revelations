@@ -1,7 +1,5 @@
+{{ partial "promised-land/header" }}
 <section id="promised-land-top-picks-container" class="home-content-section">
-  <div id="promised-land-top-picks-header">
-    <h2 id="promised-land-top-picks-title">Images of the promised land</h2>
-  </div>
   {{ range .Site.RegularPages }}
     {{ if in .Permalink "promised-land" }} 
       <div class="promised-land-photo-container">
