@@ -3,5 +3,5 @@
   {{ range first 3 (where .Site.RegularPages "Type" "==" "revelations" ) }}
     {{ partial "revelations/revelation-list-item" . }}
   {{ end }}
-  <a class="button" href="/revelations">Read more revelations...</a>
+  <a class="see-more button is-large" href="/revelations">Read more revelations...</a>
 </section>
