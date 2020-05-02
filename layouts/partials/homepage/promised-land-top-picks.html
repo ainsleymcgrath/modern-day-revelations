@@ -1,17 +1,7 @@
 {{ partial "promised-land/header" }}
 <section id="promised-land-top-picks-container" class="home-content-section">
-  {{ range .Site.RegularPages }}
-    {{ if in .Permalink "promised-land" }} 
-      <div class="promised-land-photo-container">
-	<img 
-	  class="promised-land-photo"
-	  alt="{{ .Params.caption }}"
-	  src="{{ (.Resources.GetMatch "photo").Permalink }}"
-	>
-	<br>
-	<span class="promised-land-photo-caption"> {{ .Params.caption }} </span> 
-      </div>
-    {{end}}
+  {{ range first 3 (where .Site.RegularPages "Type" "==" "promised-land" ) }}
+    {{ partial "promised-land/promised-land-list-item" . }}
   {{ end }}
-  <a href="/promised-land">See more of the promised land...</a>
+  <a class="button" href="/promised-land">See more of the promised land...</a>
 </section>

@@ -1,12 +1,10 @@
 {{ define "main" }}
 <main aria-role="main">
-  <div>
+  {{ partial "promised-land/header" }}
+  <section class="section">
     {{ range .Pages }}
-      <article> {{ .Params.caption }}</article>
-      <a href="#{{ .Params.name }}">
-	<img src="{{ ( .Resources.GetMatch "photo" ).Permalink }}" style="max-width:50vw;">
-      </a>
+      {{ partial "promised-land/promised-land-list-item" . }}
     {{ end }}
-  </div>
+  </section>
 </main>
 {{ end }}
