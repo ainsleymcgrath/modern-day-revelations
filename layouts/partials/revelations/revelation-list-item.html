@@ -1,16 +1,20 @@
 <div class="revelation-list-item columns is-vcentered is-centered">
-  <div class="revelation-list-item-thumbnail-container column is-narrow">
-    <figure class="revelation-list-item-thumbnail image is-128x128">
-      <img 
-	alt="Small photograph of {{ .Params.name }}"
-	src="{{ (.Resources.GetMatch "thumbnail").Permalink }}"
-      >
-    </figure>
-  </div>
+  <a href="{{ .Permalink }}">
+    <div class="column is-narrow">
+      <figure class="image is-128x128">
+	<img 
+	  alt="Small photograph of {{ .Params.name }}"
+	  src="{{ (.Resources.GetMatch "thumbnail").Permalink }}"
+	>
+      </figure>
+    </div>
+  </a>
   <div class="column is-5 has-text-left">
-    <div class="revelation-list-item-prose-container ">
-    <p class="revelation-list-item-prose content">
-      <strong>{{ .Params.name }}</strong>
+    <div>
+    <p class="content is-large">
+      <a class="person-name-link" href="{{ .Permalink }}">
+	<strong>{{ .Params.name }}</strong>
+      </a>
       <br>
       {{ .Params.status }}
     </p>

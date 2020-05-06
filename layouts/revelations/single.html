@@ -1,6 +1,23 @@
 {{ define "main" }}
-<section id="main">
-  <h1>{{ .Params.Name }}</h1>
-  <article>{{ .Content }}</article>
+{{ partial "common/small-header" }}
+<section class="hero is-medium">
+  <div class="has-text-centered hero-body">
+    <h2 class="title is-1 is-family-secondary has-text-weight-light">{{ .Params.name }}</h2>
+  </div>
+</section>
+
+<section class="hero">
+  <figure class="image hero-body">
+    <img 
+      alt="TODO"
+      src="{{ (.Resources.GetMatch "photo").Permalink }}"
+    >
+  </figure>
+</section>
+
+{{ partial "revelations/single/dossier" .Params }}
+
+<section class="section columns">
+  <article class="column is-9 is-offset-1 content is-large">{{ .Content }}</article>
 </section>
 {{ end }}
