@@ -1,10 +1,9 @@
 <div class="promised-land-list-item columns is-gapless is-multiline is-centered">
-  <figure class="promised-land-feature-photo image column is-9">
+  <figure class="image column is-9">
     <img
-      class="promised-land-photo"
       alt="{{ .Params.caption }}"
       src="{{ (.Resources.GetMatch "photo").Permalink }}"
     >
   </figure>
-  <span class="promised-land-photo-caption column is-9"> {{ .Params.caption }} </span> 
+  <span class="column is-9 has-text-left"> {{ .Params.caption }} </span> 
 </div>
