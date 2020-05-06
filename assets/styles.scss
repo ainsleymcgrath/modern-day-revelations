@@ -1,50 +1,50 @@
-/* GLOBAL */ 
 @font-face {
   font-family: "TrajanPro";
   src: url("fonts/TrajanPro.otf");
 }
 
-$family-primary: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+$family-primary: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, sans-serif;
 $family-secondary: TrajanPro;
 
 $hero-body-padding: 0px;
+$table-cell-border: none;
+$table-background-color: transparent;
 
-body {
-  background-color: #FFFEFE;
-}
+$grey-dark: #676767;
+$grey-light: #D9D9D9;
+$grey-lighter: #DEDEDE;
+
+@import "./bulma/bulma.sass";
 
 div.revelation-list-item {
   padding: 30px 0 30px 0;
 }
 
-/* HOMEPAGE: PROMISED LAND */
-section#promised-land-top-picks-container {
-  width: 100vw;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
+div.promised-land-list-item {
+  padding: 30px 0 30px 0;
 }
 
-
-div#promised-land-top-picks-header {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  height: 10rem;
+div.contact-footer-decoration {
+  border-top: 1px solid #DDD;
+  padding-top: 120px;
+  height: 200px;
 }
 
-div.promised-land-photo-container {
-  margin: 0 0 6rem 0;
+.button.see-more {
+  margin-top: 4rem;
 }
 
-img.promised-land-photo {
-  width: 90vw;
+a.small-header-anchor {
+  color: $grey-light;
 }
 
-span.promised-land-photo-caption {
-  font-size: 1rem;
+a.person-name-link {
+  color: $grey-dark;
 }
 
-@import "./bulma/bulma.sass"
+div.dossier {
+  border: 1px solid $grey-lighter;
+  border-radius: 0.5rem;
+  margin-top: 4rem;
+}
+
