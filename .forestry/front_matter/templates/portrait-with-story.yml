@@ -4,32 +4,29 @@ hide_body: false
 fields:
 - type: text
   name: name
-  label: name
+  label: First Name
+  description: The first name of the interviewee.
 - type: file
-  name: photo
-  label: photo
+  name: portrait
+  label: Portrait
+  description: The portrait of the interviewee.
 - type: text
   name: occupation
-  label: occupation
+  label: Occupation
+  description: The interviewee's occupation.
 - type: text
   name: located
-  label: located
+  label: Location
+  description: Where the interviewee lives.
 - type: text
   name: born
-  label: born
+  label: Birthplace
+  description: The birthplace of the interviewee.
 - type: text
   name: upbringing
-  label: upbringing
+  label: Upbringing
+  description: The interviewee's upbringing.
 - type: text
   name: status
-  label: status
-- type: field_group_list
-  name: resources
-  label: resources
-  fields:
-  - type: text
-    name: name
-    label: name
-  - type: file
-    name: src
-    label: src
+  label: Current Status
+  description: The interviewee's current status with the Mormon church.
