@@ -1,6 +1,7 @@
 ---
-label: Revelation
+label: Promised Land
 hide_body: true
+display_field: caption
 fields:
 - type: text
   name: caption
