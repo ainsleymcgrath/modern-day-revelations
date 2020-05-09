@@ -1,4 +1,35 @@
 ---
-label: Portrait With Story
+label: Portrait with Story
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: name
+  label: name
+- type: file
+  name: photo
+  label: photo
+- type: text
+  name: occupation
+  label: occupation
+- type: text
+  name: located
+  label: located
+- type: text
+  name: born
+  label: born
+- type: text
+  name: upbringing
+  label: upbringing
+- type: text
+  name: status
+  label: status
+- type: field_group_list
+  name: resources
+  label: resources
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: src
+    label: src
