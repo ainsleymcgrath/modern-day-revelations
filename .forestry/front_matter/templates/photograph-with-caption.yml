@@ -1,0 +1,20 @@
+---
+label: Photograph with Caption
+hide_body: true
+fields:
+- type: text
+  name: caption
+  label: caption
+- type: number
+  name: weight
+  label: weight
+- type: field_group_list
+  name: resources
+  label: resources
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: src
+    label: src
