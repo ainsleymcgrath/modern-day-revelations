@@ -4,17 +4,22 @@ hide_body: true
 fields:
 - type: text
   name: caption
-  label: caption
+  label: Photo Caption
+  description: The caption for the photograph you're uploading.
 - type: number
   name: weight
-  label: weight
+  label: Weight
+  description: Lower weights (namely, the number 1) will appear on the home page.
 - type: field_group_list
   name: resources
   label: resources
   fields:
   - type: text
     name: name
-    label: name
+    label: Photo Title
+    description: The name of the photo. Will not displayed on the post, it's only
+      here for screen readers.
   - type: file
     name: src
-    label: src
+    label: Photo File
+    description: The photograph to upload.
