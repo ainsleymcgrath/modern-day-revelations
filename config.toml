@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://modern-day-revelations.com/"
 languageCode = "en-us"
 title = "Modern Day Revelations"
+cloudinary_url = "https://res.cloudinary.com/de6mmphwp/image/upload/v1589127288/modern-day-revelations"

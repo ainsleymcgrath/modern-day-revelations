@@ -14,7 +14,7 @@ $grey-dark: #676767;
 $grey-light: #D9D9D9;
 $grey-lighter: #DEDEDE;
 
-@import "./bulma/bulma.sass";
+@import "./node_modules/bulma/bulma.sass";
 
 div.revelation-list-item {
   padding: 30px 0 30px 0;

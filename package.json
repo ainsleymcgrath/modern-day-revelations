@@ -1,0 +1,16 @@
+{
+  "name": "modern-day-revelations",
+  "version": "1.0.0",
+  "description": "A book of Mormon's stories.",
+  "scripts": {
+    "build": "npm install --prefix ./assets && hugo",
+    "dev": "hugo server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainsleymcgrath/modern-day-revelations.git"
+  },
+  "author": "Ainsley McGrath",
+  "license": "ISC",
+  "homepage": "https://github.com/ainsleymcgrath/modern-day-revelations#readme"
+}
