@@ -1,0 +1,19 @@
+---
+label: Photograph with Caption
+hide_body: true
+fields:
+- type: text
+  name: caption
+  label: Caption
+  description: The caption for your photo, displayed beneath it.
+- type: number
+  name: weight
+  label: Weight
+  description: The 3 lowest weights (you can use 1 over and over) will be displayed
+    on the home page.
+- name: photograph
+  type: file
+  config:
+    maxSize: 64
+  label: Photograph
+  description: The photo you're uploading.

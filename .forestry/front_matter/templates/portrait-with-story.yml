@@ -1,0 +1,32 @@
+---
+label: Portrait with Story
+hide_body: false
+fields:
+- type: text
+  name: name
+  label: First Name
+  description: The first name of the interviewee.
+- type: file
+  name: portrait
+  label: Portrait
+  description: The portrait of the interviewee.
+- type: text
+  name: occupation
+  label: Occupation
+  description: The interviewee's occupation.
+- type: text
+  name: located
+  label: Location
+  description: Where the interviewee lives.
+- type: text
+  name: born
+  label: Birthplace
+  description: The birthplace of the interviewee.
+- type: text
+  name: upbringing
+  label: Upbringing
+  description: The interviewee's upbringing.
+- type: text
+  name: status
+  label: Current Status
+  description: The interviewee's current status with the Mormon church.
