@@ -19,10 +19,10 @@ sections:
   label: Promised land
   create: all
   match: "**/*"
-upload_dir: ''
-public_path: ''
+upload_dir: http://res.cloudinary.com/de6mmphwp/image/upload
+public_path: http://res.cloudinary.com/de6mmphwp/image/upload
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
