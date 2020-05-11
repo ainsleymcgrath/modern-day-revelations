@@ -1,3 +1,7 @@
 <section id="homepage-hero-container" class="hero">
-  <img class="hero-body" id="homepage-hero" src="{{ .Resources.GetMatch "MDR_HERO_FINAL.jpg" }}">
+  <img 
+    class="hero-body"
+    id="homepage-hero"
+    src="{{ .Site.Params.cloudinary_url }}/{{ .Params.header_image_name }}"
+  >
 </section>
