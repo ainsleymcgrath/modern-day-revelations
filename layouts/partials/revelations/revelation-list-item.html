@@ -4,7 +4,7 @@
       <figure class="image is-128x128">
 	<img 
 	  alt="Small photograph of {{ .Params.name }}"
-	  src="{{ (.Resources.GetMatch "thumbnail").Permalink }}"
+	  src="{{ .Site.Params.cloudinary_url }}/g_face:center,c_fill,w_200,h_200/{{ .Params.portrait }}"
 	>
       </figure>
     </div>

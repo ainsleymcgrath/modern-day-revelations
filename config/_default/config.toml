@@ -2,5 +2,5 @@ languageCode = "en-us"
 title = "Modern Day Revelations"
 
 [params]
-  cloudinary_url = "https://res.cloudinary.com/de6mmphwp/image/upload/v1589127288/modern-day-revelations"
+  cloudinary_url = "https://res.cloudinary.com/de6mmphwp/image/upload"
   headerImageName = "MDR_Header"

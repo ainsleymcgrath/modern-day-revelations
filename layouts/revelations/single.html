@@ -10,7 +10,7 @@
   <figure class="image hero-body">
     <img 
       alt="TODO"
-      src="{{ (.Resources.GetMatch "photo").Permalink }}"
+      src="{{ .Site.Params.cloudinary_url }}/{{ .Params.portrait }}"
     >
   </figure>
 </section>
