@@ -1,4 +1,6 @@
-{{ partial "revelations/header" }}
+{{ with .Site.GetPage "/revelations" }}
+  {{ partial "common/header" . }}
+{{ end }}
 <section id="revelations-top-picks-section" class="section home-content-section has-text-centered">
   {{ range first 3 (where .Site.RegularPages "Type" "==" "revelations" ) }}
     {{ partial "revelations/revelation-list-item" . }}

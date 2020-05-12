@@ -1,6 +1,9 @@
 {{ define "main" }}
 <main aria-role="main">
-  {{ partial "promised-land/header" }}
+  {{ partial "common/small-header" }}
+  {{ with .Site.GetPage "/promised-land" }}
+    {{ partial "common/header" . }}
+  {{ end }}
   <section class="section">
     {{ range .Pages }}
       {{ partial "promised-land/promised-land-list-item" . }}

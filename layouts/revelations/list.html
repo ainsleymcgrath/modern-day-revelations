@@ -1,7 +1,9 @@
 {{ define "main" }}
 <main aria-role="main">
   {{ partial "common/small-header" }}
-  {{ partial "revelations/header" }}
+  {{ with .Site.GetPage "/revelations" }}
+    {{ partial "common/header" . }}
+  {{ end }}
   <section class="section">
     <div class="revelations-list">
       {{ range .Pages }}

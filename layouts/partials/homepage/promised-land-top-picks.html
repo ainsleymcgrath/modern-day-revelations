@@ -1,4 +1,6 @@
-{{ partial "promised-land/header" }}
+{{ with .Site.GetPage "/promised-land" }}
+  {{ partial "common/header" . }}
+{{ end }}
 <section id="promised-land-top-picks-container" class="has-text-centered">
   {{ range first 3 (where .Site.RegularPages "Type" "==" "promised-land" ) }}
     {{ partial "promised-land/promised-land-list-item" . }}
