@@ -30,3 +30,5 @@ fields:
   name: status
   label: Current Status
   description: The interviewee's current status with the Mormon church.
+pages:
+- content/revelations/glenda.md
