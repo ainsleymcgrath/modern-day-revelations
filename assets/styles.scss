@@ -48,3 +48,13 @@ div.dossier {
   margin-top: 4rem;
 }
 
+#homepage-hero-container {
+  background:
+    linear-gradient(180deg, rgba(0,0,0,0) 90%, rgba(255,255,255,1) 100%),
+    url("{{ .Site.Params.cloudinary_url }}/{{ .Params.headerImageName }}")center center;
+  background-size: cover;
+}
+
+#main-title {
+  font-size: 6rem;
+}

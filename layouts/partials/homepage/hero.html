@@ -1,7 +1,14 @@
-<section id="homepage-hero-container" class="hero">
-  <img 
-    class="hero-body"
-    id="homepage-hero"
-    src="{{ .Site.Params.cloudinary_url }}/{{ .Params.header_image_name }}"
-  >
+<section id="homepage-hero-container" class="hero is-large">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h1
+	class="title is-1 is-family-secondary has-text-weight-light"
+	id="main-title"
+      >
+	{{ .Params.title | safeHTML }}
+      </h1>
+      <h1 class="subtitle is-2 is-family-secondary has-text-weight-light">{{ .Params.subtitle | safeHTML }}</h1>
+      <h1 class="is-family-secondary subtitle has-text-weight-light is-4">{{ .Params.blurb | safeHTML }}</h1>
+    </div>
+  </div>
 </section>
