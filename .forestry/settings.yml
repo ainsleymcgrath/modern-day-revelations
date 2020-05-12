@@ -16,7 +16,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/promised-land
-  label: Promised land
+  label: Promised Land
   create: all
   match: "**/*"
 upload_dir: ''
