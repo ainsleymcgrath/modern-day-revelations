@@ -17,3 +17,5 @@ fields:
     maxSize: 64
   label: Photograph
   description: The photo you're uploading.
+pages:
+- content/promised-land/cultural-hall.md
