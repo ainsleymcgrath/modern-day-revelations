@@ -5,7 +5,7 @@ name = "Daine"
 occupation = "Medical Consultant "
 portrait = "/v1589332716/Daine_d3td1w.jpg"
 status = "Removed from list in 2010"
-upbringing = "Raised Mormon"
+upbringing = "Member of The Church of Jesus Christ of Latter-Day Saints"
 
 +++
 I was a true believer. I always believed I would stick around Mormonism as long as one of the three following things were true; if it makes me happy; if I feel like I was doing more good in the world by being a Mormon than not; or if it turns out to be true in some kind of cosmic sense. It seems embarrassing to admit now, but I can’t really describe my life without explaining that. I was a true believer for a really long time.
