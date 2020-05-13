@@ -1,6 +1,5 @@
 +++
 born = "1979 Wyoming"
-draft = true
 located = "Detroit, MI"
 name = "Aubri"
 occupation = "Writer"
