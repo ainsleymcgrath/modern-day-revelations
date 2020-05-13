@@ -2,7 +2,8 @@
   {{ partial "common/header" . }}
 {{ end }}
 <section id="promised-land-top-picks-container" class="has-text-centered">
-  {{ range first 3 (where .Site.RegularPages "Type" "==" "promised-land" ) }}
+  {{ $top := int .Params.top_promised_land_count }}
+  {{ range first $top (where .Site.RegularPages "Type" "==" "promised-land" ) }}
     {{ partial "promised-land/promised-land-list-item" . }}
   {{ end }}
   <a class="see-more button is-large" href="/promised-land">See more of the promised land...</a>

@@ -2,7 +2,8 @@
   {{ partial "common/header" . }}
 {{ end }}
 <section id="revelations-top-picks-section" class="section home-content-section has-text-centered">
-  {{ range first 3 (where .Site.RegularPages "Type" "==" "revelations" ) }}
+  {{ $top := int .Params.top_revelations_count }}
+  {{ range first $top (where .Site.RegularPages "Type" "==" "revelations" ) }}
     {{ partial "revelations/revelation-list-item" . }}
   {{ end }}
   <a class="see-more button is-large" href="/revelations">Read more revelations...</a>
