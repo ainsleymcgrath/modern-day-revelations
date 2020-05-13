@@ -1,4 +1,4 @@
 ---
 caption: Visitors point out where they want to serve their mission, Palmyra, NY, 2019
-photograph: 32_Visitors_20point%20out%20where%20they%20want%20to%20serve%20their%20mission%2C%20Palmyra%2C%20NY%2C%202019.jpg
+photograph: 32_Visitors_20point_20out_20where_20they_20want_20to_20serve_20their_20mission_2C_20Palmyra_2C_20NY_2C_202019.jpg
 ---

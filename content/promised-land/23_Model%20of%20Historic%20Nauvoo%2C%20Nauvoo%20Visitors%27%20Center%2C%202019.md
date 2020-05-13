@@ -1,4 +1,4 @@
 ---
 caption: Model of Historic Nauvoo, Nauvoo Visitors' Center, 2019
-photograph: 23_Model_20of%20Historic%20Nauvoo%2C%20Nauvoo%20Visitors%27%20Center%2C%202019.jpg
+photograph: 23_Model_20of_20Historic_20Nauvoo_2C_20Nauvoo_20Visitors%27_20Center_2C_202019.jpg
 ---

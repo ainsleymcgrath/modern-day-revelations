@@ -1,5 +1,5 @@
 ---
 caption: Two participants welcome visitors to the yearly Hill Cumorah Pagaent, Palmyra,
   NY, 2019
-photograph: 08_Two_20participants%20welcome%20visitors%20to%20the%20yearly%20Hill%20Cumorah%20Pagaent%2C%20Palmyra%2C%20NY%2C%202019.jpg
+photograph: 08_Two_20participants_20welcome_20visitors_20to_20the_20yearly_20Hill_20Cumorah_20Pagaent_2C_20Palmyra_2C_20NY_2C_202019.jpg
 ---
