@@ -1,11 +1,11 @@
 +++
-born = ""
+born = "Utah, raised in Michigan"
 draft = true
-located = ""
+located = "Chicago, IL "
 name = "Daine"
 occupation = "Medical Consultant "
-portrait = ""
-status = ""
-upbringing = ""
+portrait = "/v1589332716/Daine_d3td1w.jpg"
+status = "Removed from list in 2010"
+upbringing = "Raised Mormon"
 
 +++
