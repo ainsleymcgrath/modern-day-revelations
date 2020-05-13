@@ -1,6 +1,5 @@
 +++
 born = "Rexburg, ID"
-draft = true
 located = "Chicago, IL"
 name = "Matt"
 occupation = "Anartist and Mental Disabilities Advocate"

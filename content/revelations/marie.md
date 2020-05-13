@@ -1,6 +1,5 @@
 +++
 born = "Las Vegas, NV"
-draft = true
 located = "Chicago, IL"
 name = "Marie"
 occupation = "Marketing"
