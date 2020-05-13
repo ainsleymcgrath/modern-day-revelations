@@ -1,5 +1,5 @@
 +++
-born = "1991 Kemmerer, Wyoming"
+born = "Kemmerer, Wyoming"
 located = "Chicago, IL"
 name = "Brody"
 occupation = "Higher Education Professional"
