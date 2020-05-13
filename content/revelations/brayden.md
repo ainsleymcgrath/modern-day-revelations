@@ -1,6 +1,5 @@
 +++
 born = "1991 Lafayette, IN"
-draft = true
 located = "New York City, NY"
 name = "Brayden"
 occupation = "Dancer and Artist"
