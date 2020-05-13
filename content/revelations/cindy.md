@@ -1,5 +1,5 @@
 +++
-born = "1958 Frankfort, IN"
+born = "Frankfort, IN"
 draft = true
 located = "Bermuda"
 name = "Cindy"
