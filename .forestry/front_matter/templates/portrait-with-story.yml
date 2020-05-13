@@ -31,6 +31,7 @@ fields:
   label: Current Status
   description: The interviewee's current status with the Mormon church.
 pages:
+- content/revelations/aubri.md
 - content/revelations/brayden.md
 - content/revelations/daine.md
 - content/revelations/glenda.md
