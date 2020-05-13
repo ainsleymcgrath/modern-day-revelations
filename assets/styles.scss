@@ -32,6 +32,7 @@ div.contact-footer-decoration {
 
 .button.see-more {
   margin-top: 4rem;
+  margin-bottom: 12rem;
 }
 
 a.small-header-anchor {
@@ -46,6 +47,11 @@ div.dossier {
   border: 1px solid $grey-lighter;
   border-radius: 0.5rem;
   margin-top: 4rem;
+}
+
+.portrait {
+  max-height: 87vh;
+  object-fit: scale-down;
 }
 
 #homepage-hero-container {

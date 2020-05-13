@@ -1,7 +1,7 @@
 {{ with .Site.GetPage "/revelations" }}
   {{ partial "common/header" . }}
 {{ end }}
-<section id="revelations-top-picks-section" class="section home-content-section has-text-centered">
+<section id="revelations-top-picks-section" class="has-text-centered">
   {{ $top := int .Params.top_revelations_count }}
   {{ range first $top (where .Site.RegularPages "Type" "==" "revelations" ) }}
     {{ partial "revelations/revelation-list-item" . }}

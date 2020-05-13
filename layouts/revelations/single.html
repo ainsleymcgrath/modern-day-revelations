@@ -1,16 +1,17 @@
 {{ define "main" }}
 {{ partial "common/small-header" }}
-<section class="hero is-medium">
+<section class="hero">
   <div class="has-text-centered hero-body">
     <h2 class="title is-1 is-family-secondary has-text-weight-light">{{ .Params.name }}</h2>
   </div>
 </section>
 
-<section class="hero">
-  <figure class="image hero-body">
+<section class="section">
+  <figure class="image">
     <img 
-      alt="TODO"
+      alt="Portrait of {{ .Params.name }}"
       src="{{ .Site.Params.cloudinary_url }}/{{ .Params.portrait }}"
+      class="portrait"
     >
   </figure>
 </section>

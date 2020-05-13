@@ -1,23 +1,19 @@
-<div class="revelation-list-item columns is-vcentered is-centered">
-  <a href="{{ .Permalink }}">
-    <div class="column is-narrow">
-      <figure class="image is-128x128">
-	<img 
-	  alt="Small photograph of {{ .Params.name }}"
-	  src="{{ .Site.Params.cloudinary_url }}/g_face:center,c_fill,w_200,h_200/{{ .Params.portrait }}"
-	>
-      </figure>
-    </div>
-  </a>
-  <div class="column is-5 has-text-left">
-    <div>
-    <p class="content is-large">
-      <a class="person-name-link" href="{{ .Permalink }}">
+<div class="revelation-list-item columns is-centered">
+  <div class="column is-narrow">
+    <a href="{{ .Permalink }}" >
+      <img
+	alt="Small photograph of {{ .Params.name }}"
+	src="{{ .Site.Params.cloudinary_url }}{{ .Params.portrait }}"
+	class="portrait"
+      >
+    </a>
+    <a class="person-name-link content is-large columns" href="{{ .Permalink }}">
+      <div class="column is-narrow">
 	<strong>{{ .Params.name }}</strong>
-      </a>
-      <br>
-      {{ .Params.status }}
-    </p>
-    </div>
+      </div>
+      <div class="column is-offset-1">
+	{{ .Params.status }}
+      </div>
+    </a>
   </div>
 </div>
