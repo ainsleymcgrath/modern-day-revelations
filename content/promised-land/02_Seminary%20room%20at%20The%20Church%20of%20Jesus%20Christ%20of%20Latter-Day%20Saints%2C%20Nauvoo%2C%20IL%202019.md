@@ -1,5 +1,5 @@
 ---
 caption: Seminary room at The Church of Jesus Christ of Latter-Day Saints, Nauvoo,
   IL 2019
-photograph: 02_Seminary_20room%20at%20The%20Church%20of%20Jesus%20Christ%20of%20Latter-Day%20Saints%2C%20Nauvoo%2C%20IL%202019.jpg
+photograph: 02_Seminary_20room_20at_20The_20Church_20of_20Jesus_20Christ_20of_20Latter-Day_20Saints_2C_20Nauvoo_2C_20IL_202019.jpg
 ---

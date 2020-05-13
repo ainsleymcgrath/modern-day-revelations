@@ -1,4 +1,4 @@
 ---
 caption: Welcome LDS, Palmyra, NY, 2019
-photograph: 27_Welcome_20LDS%2C%20Palmyra%2C%20NY%2C%202019.jpg
+photograph: 27_Welcome_20LDS_2C_20Palmyra_2C_20NY_2C_202019.jpg
 ---

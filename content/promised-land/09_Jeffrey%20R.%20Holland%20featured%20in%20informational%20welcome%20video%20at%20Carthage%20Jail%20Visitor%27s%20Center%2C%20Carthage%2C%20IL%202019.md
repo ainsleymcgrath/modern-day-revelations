@@ -1,5 +1,5 @@
 ---
 caption: Jeffrey R. Holland featured in informational welcome video at Carthage Jail
   Visitor's Center, Carthage, IL 2019
-photograph: 09_Jeffrey_20R.%20Holland%20featured%20in%20informational%20welcome%20video%20at%20Carthage%20Jail%20Visitor%27s%20Center%2C%20Carthage%2C%20IL%202019.jpg
+photograph: 09_Jeffrey_20R._20Holland_20featured_20in_20informational_20welcome_20video_20at_20Carthage_20Jail_20Visitor%27s_20Center_2C_20Carthage_2C_20IL_202019.jpg
 ---

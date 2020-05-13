@@ -1,5 +1,5 @@
 ---
 caption: Visitor at statues of Joseph and Hyrum Smith outside Nauvoo Illinois Temple,
   2019
-photograph: 19_Visitor_20at%20statues%20of%20Joseph%20and%20Hyrum%20Smith%20outside%20Nauvoo%20Illinois%20Temple%2C%202019.jpg
+photograph: 19_Visitor_20at_20statues_20of_20Joseph_20and_20Hyrum_20Smith_20outside_20Nauvoo_20Illinois_20Temple_2C_202019.jpg
 ---
