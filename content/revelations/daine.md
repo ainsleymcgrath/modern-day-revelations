@@ -1,6 +1,6 @@
 +++
 born = "Utah, raised in Michigan"
-located = "Chicago, IL "
+located = "Austin, TX"
 name = "Daine"
 occupation = "Medical Consultant "
 portrait = "/v1589332716/Daine_d3td1w.jpg"
