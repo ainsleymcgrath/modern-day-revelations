@@ -1,6 +1,5 @@
 +++
 born = "Born Milford, Utah raised in Indian Springs, NV"
-draft = true
 located = "Chicago, IL"
 name = "Paul"
 occupation = "Owner & Curator Slow Gallery"
