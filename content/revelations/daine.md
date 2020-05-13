@@ -1,6 +1,5 @@
 +++
 born = "Utah, raised in Michigan"
-draft = true
 located = "Chicago, IL "
 name = "Daine"
 occupation = "Medical Consultant "

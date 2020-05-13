@@ -1,6 +1,5 @@
 +++
 born = "1952 in Kokomo, IN"
-draft = true
 located = "Lafayette, IN"
 name = "Glenda"
 occupation = "Retired Social Worker"
