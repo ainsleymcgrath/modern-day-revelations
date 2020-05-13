@@ -4,7 +4,7 @@ located = "Austin, TX"
 name = "Daine"
 occupation = "Medical Consultant "
 portrait = "/v1589332716/Daine_d3td1w.jpg"
-status = "Removed from list in 2010"
+status = "Resigned Membership 2010"
 upbringing = "Member of The Church of Jesus Christ of Latter-Day Saints"
 
 +++
