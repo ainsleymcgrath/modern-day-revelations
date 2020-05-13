@@ -1,6 +1,5 @@
 +++
 born = "1991 Kemmerer, Wyoming"
-draft = true
 located = "Chicago, IL"
 name = "Brody"
 occupation = "Higher Education Professional"
