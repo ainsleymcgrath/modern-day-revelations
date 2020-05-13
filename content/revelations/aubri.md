@@ -1,5 +1,5 @@
 +++
-born = "1979 Wyoming"
+born = "Wyoming"
 located = "Detroit, MI"
 name = "Aubri"
 occupation = "Writer"
