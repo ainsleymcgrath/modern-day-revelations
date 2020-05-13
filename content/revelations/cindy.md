@@ -1,6 +1,5 @@
 +++
 born = "Frankfort, IN"
-draft = true
 located = "Bermuda"
 name = "Cindy"
 occupation = "Missionary for The Church of Jesus Christ of Latter-Day Saints"
