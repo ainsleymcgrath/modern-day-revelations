@@ -1,11 +1,11 @@
 +++
-born = "1952 in Kokomo, IN"
+born = "Kokomo, IN"
 located = "Lafayette, IN"
 name = "Glenda"
 occupation = "Retired Social Worker"
 portrait = "/v1589321912/Glenda_hata0x.jpg"
 status = "Converted 1979"
-upbringing = "Non-spiritual parents"
+upbringing = "Christianity"
 
 +++
 When I was a teenager my parents told me that I almost died having my kidney removed at the age of six. I started to wonder why I hadn’t. I would ask myself, ‘Why am I still here?” Years later my older brother converted to the Church while in the military. While back home between deployments the missionaries knocked at our father’s house. I never answered the door when they came around, but my brother let them in. I immediately believed what they were saying. I could feel myself filling up with a sense of this is what had been missing. The question, ‘Why am I still here” was being answered.
