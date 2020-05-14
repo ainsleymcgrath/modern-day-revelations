@@ -6,7 +6,7 @@ occupation = "Anartist and Mental Disabilities Advocate"
 portrait = "/v1589393606/19_Matt_ml5dv9.jpg"
 status = "Inactive since 2009"
 upbringing = "The Church of Jesus Christ of Latter-Day Saints"
-weight = 5
+weight = 7
 
 +++
 When I returned home early from my mission, everybody was looking at me like, what did you do wrong? I’m sick. Well, what wrong did you do to become sick? The Church never acknowledged my time served, and when you subscribe to a religion that says illness is a curse brought about to those who sin, you see sickness as failure.
