@@ -1,4 +1,5 @@
 ---
-caption: Miller_200126_MDR_FellowHouse_111
-photograph: Miller_200126_MDR_FellowHouse_111.jpg
+caption: 'Portrait of the Latter-Day Saint Prophets, Martinsville, IN, 2019 '
+photograph: Prophets.jpg
+
 ---
