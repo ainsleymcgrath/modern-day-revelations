@@ -2,12 +2,12 @@
 {{ partial "common/small-header" }}
 <section class="hero">
   <div class="has-text-centered hero-body">
-    <h2 class="title is-1 is-family-secondary has-text-weight-light">{{ .Params.name }}</h2>
+    <h1 class="title is-size-1 is-family-secondary has-text-weight-light">{{ .Params.name }}</h1>
   </div>
 </section>
 
-<section class="section">
-  <figure class="image">
+<section class="section columns is-centered">
+  <figure class="image column is-narrow">
     <img 
       alt="Portrait of {{ .Params.name }}"
       src="{{ .Site.Params.cloudinary_url }}/{{ .Params.portrait }}"
@@ -18,7 +18,7 @@
 
 {{ partial "revelations/single/dossier" .Params }}
 
-<section class="section columns">
-  <article class="column is-9 is-offset-1 content is-large">{{ .Content }}</article>
+<section class="section columns is-centered">
+  <article class="column is-10 content is-size-4">{{ .Content }}</article>
 </section>
 {{ end }}

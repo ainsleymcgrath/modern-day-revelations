@@ -1,19 +1,20 @@
-<div class="revelation-list-item columns is-centered">
-  <div class="column is-narrow">
-    <a href="{{ .Permalink }}" >
+{{ $tab := "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" }}
+<div class="revelation-list-item columns is-gapless is-multiline is-centered">
+    <figure class="image column is-9">
+      <a href="{{ .Permalink }}" class="person-name-link">
       <img
 	alt="Small photograph of {{ .Params.name }}"
 	src="{{ .Site.Params.cloudinary_url }}{{ .Params.portrait }}"
 	class="portrait"
       >
-    </a>
-    <a class="person-name-link content is-large columns" href="{{ .Permalink }}">
-      <div class="column is-narrow">
-	<strong>{{ .Params.name }}</strong>
-      </div>
-      <div class="column is-offset-1">
-	{{ .Params.status }}
-      </div>
-    </a>
-  </div>
+      </a>
+    </figure>
+    <p class="content column is-9 is-size-4 has-text-centered">
+      <a href="{{ .Permalink }}" class="person-name-link">
+      <strong>{{ .Params.name }}</strong> 
+      {{ if isset .Params "status" }}
+	{{ $tab | safeHTML }} {{ .Params.status }}
+      {{ end }}
+      </a>
+    </p>
 </div>
