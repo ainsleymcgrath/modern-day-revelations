@@ -37,6 +37,9 @@ div.contact-footer-decoration {
 
 a.small-header-anchor {
   color: $grey-light;
+  h6 {
+    color: $grey-light;
+  }
 }
 
 a.person-name-link {
@@ -51,6 +54,7 @@ div.dossier {
 
 .portrait {
   max-height: 87vh;
+  max-width: 75vw;
   object-fit: scale-down;
 }
 
