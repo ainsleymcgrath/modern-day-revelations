@@ -17,6 +17,13 @@ $grey-lighter: #DEDEDE;
 
 @import "./node_modules/bulma/bulma.sass";
 
+html {
+  font-size: 100%;
+  @include tablet {
+    font-size: 155%;
+  }
+}
+
 div.revelation-list-item {
   padding: 30px 0 30px 0;
 }
@@ -67,12 +74,8 @@ div.dossier {
 }
 
 #main-title {
-  font-size: 6rem;
-}
-
-html {
-  font-size: 16px;
-  @include tablet {
-    font-size: 22px;
+  font-size: 4rem;
+  @include desktop {
+    font-size: 6rem;
   }
 }

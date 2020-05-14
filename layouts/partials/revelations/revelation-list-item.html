@@ -11,10 +11,8 @@
     </figure>
     <p class="content column is-9 is-size-4 has-text-centered">
       <a href="{{ .Permalink }}" class="person-name-link">
-      <strong>{{ .Params.name }}</strong> 
-      {{ if isset .Params "status" }}
-	{{ $tab | safeHTML }} {{ .Params.status }}
-      {{ end }}
+      {{ .Params.name }} 
+      {{ if isset .Params "status" }} {{ $tab | safeHTML }} {{ .Params.status }} {{ end }}
       </a>
     </p>
 </div>
