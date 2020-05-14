@@ -21,4 +21,4 @@ I find it ironic that the person who hears voices is the person no one believes 
 
 During my second marriage - I was around 28 at the time - I was going to grad school and working long hours on projects. My wife accused me of cheating on her. I went to our house to get my things and she wouldn’t let me through the door. I called the cops. She called the Bishop. Again, no one would hear me out, no one would believe me. I saw how The Church put itself and its image before its members. For the second time, I was discredited because of who I am. I told the Bishop he failed as the steward and I’m out. He said, if you ever want to come back, we’re here. You’re missing the point, I told him, you weren’t here for me through any of this.
 
-[http://www.mattbodett.com](http://www.mattbodett.com "http://www.mattbodett.com")
+To see Matt's work visit [http://www.mattbodett.com](http://www.mattbodett.com "http://www.mattbodett.com").
