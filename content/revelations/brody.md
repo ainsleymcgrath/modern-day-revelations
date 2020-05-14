@@ -5,7 +5,8 @@ name = "Brody"
 occupation = "Higher Education Professional"
 portrait = "/v1589387732/11_Brody_dahh3l.jpg"
 status = "Excommunicated 2007"
-upbringing = "Member of The Church of Jesus Christ of Latter-Day Saints"
+upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+weight = 4
 
 +++
 Knowing I was gay and knowing the people in church didn’t want me there, I still felt like I couldn’t give up Mormonism without condemning my soul forever. I tried to take my own life when I was fourteen because I felt my soul was not worth the cost of believing that anymore.
