@@ -30,6 +30,17 @@ fields:
   name: status
   label: Current Status
   description: The interviewee's current status with the Mormon church.
+- name: weight
+  type: number
+  label: Weight
+  description: Photos are displayed on the page in increasing weight order. The same
+    number can be used for multiple posts.
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/revelations/aubri.md
 - content/revelations/brayden.md
