@@ -5,7 +5,8 @@ name = "Aubri"
 occupation = "Writer"
 portrait = "/v1589343100/20_Aubri_h5kzhn.jpg"
 status = "Inactive since 1994"
-upbringing = "Member of The Church of Jesus Christ of Latter-Day Saints"
+upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+weight = 1
 
 +++
 I had a fairly lonely childhood and spent a lot of time with books. That saved me; it’s not an atypical story. My mother is a single mother of three and we moved around a lot, throughout my childhood, as she completed her education and began her career. In addition to books, another stabilizing factor in my life was Mormonism, even though I always had a feeling of being on the outside of their perfect society. Mormon families are really cliquey and I didn’t have a complete family, so we were never going to get fully invited into their social circles. I still tried my hardest to be—I was very involved in church activities up until the day I left.
