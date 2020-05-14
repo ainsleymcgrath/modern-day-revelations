@@ -5,7 +5,8 @@ name = "Brayden"
 occupation = "Dancer and Artist"
 portrait = "/v1589342944/08_Brayden_cftvky.jpg"
 status = "Inactive since 2011"
-upbringing = "Member of The Church of Jesus Christ of Latter-Day Saints"
+upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+weight = 6
 
 +++
 I never connected to the religion - even as a kid - because I knew I was different. I feel like I have to tell you my gay story here because, to me, my entire former life depends on the death of my Mormon life, which depends on me being gay.
