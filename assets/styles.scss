@@ -14,6 +14,7 @@ $grey-dark: #676767;
 $grey-light: #D9D9D9;
 $grey-lighter: #DEDEDE;
 
+
 @import "./node_modules/bulma/bulma.sass";
 
 div.revelation-list-item {
@@ -67,4 +68,11 @@ div.dossier {
 
 #main-title {
   font-size: 6rem;
+}
+
+html {
+  font-size: 16px;
+  @include tablet {
+    font-size: 22px;
+  }
 }
