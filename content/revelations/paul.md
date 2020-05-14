@@ -6,7 +6,7 @@ occupation = "Owner & Curator Slow Gallery"
 portrait = "/v1589392736/12_Paul_qol65t.jpg"
 status = "Inactive since 1992"
 upbringing = "The Church of Jesus Christ of Latter-Day Saints"
-weight = 1
+weight = 3
 
 +++
 In the United States there are maybe three religions people are allowed to openly mock, Mormonism being one of them. A lot of friends, and a lot of strangers, have asked me questions about it and I'll openly talk. But then it always comes down to, 'tell me the secrets. They don't understand why I won't go there. It doesn't matter what I think about the church, there was a time in my life where I truly tried everything in my faculties to get myself to believe and behave as though I was standing in front of God and making this promise in dead earnestness. I took all of it very seriously. To be talking about parts of it as a parlor story so that you can giggle makes me really uncomfortable. You don't mock somebody's belief system, it's not okay. It wasn't a subtle thing in my life..
