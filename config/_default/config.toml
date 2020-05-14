@@ -3,4 +3,4 @@ title = "Modern Day Revelations"
 
 [params]
   cloudinary_url = "https://res.cloudinary.com/de6mmphwp/image/upload"
-  headerImageName = "MDR_Header"
+  headerImageName = "MDR_Header.jpg"
