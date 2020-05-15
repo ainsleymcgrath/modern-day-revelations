@@ -33,7 +33,7 @@ div.contact-footer-decoration {
 
 .button.see-more {
   margin-top: 4rem;
-  margin-bottom: 12rem;
+  margin-bottom: 8.2rem;
 }
 
 a.small-header-anchor {
@@ -62,6 +62,7 @@ div.dossier {
 #homepage-hero-container {
   background: url("{{ .Site.Params.cloudinary_url }}/{{ .Site.Params.headerImageName }}")center center;
   background-size: cover;
+  margin-bottom: 7.2rem;
 }
 
 #main-title {
