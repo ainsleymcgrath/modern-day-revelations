@@ -1,4 +1,5 @@
 ---
 title: Revelations
-subtitle: read their stories.
+subtitle: " stories of their relationship with the LDS church"
+
 ---
