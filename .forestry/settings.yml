@@ -29,9 +29,9 @@ build:
   - HUGO_ENV=dev
   - HUGO_VERSION=0.60.1
   preview_output_directory: public
-  install_dependencies_command: npm install
+  install_dependencies_command: npm install --prefix ./assets
   preview_docker_image: forestryio/hugo:node12
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server --environment dev--buildDrafts
+  instant_preview_command: hugo server --environment dev --buildDrafts
 version: 0.60.1
