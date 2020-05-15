@@ -1,7 +1,7 @@
 ---
 title: Modern Day<br>Revelations
 subtitle: A Book of Mormons' Stories
-blurb: Photographer and Inactive Member Elaine Suzanne Miller speaks with <br>Mormon
+blurb: Photographer and Inactive Member Elaine Suzanne Miller speaks with<br>Mormon
   Converts and Ex-Mormons
 mailto: moderndayrevelations@gmail.com
 top_revelations_count: "4"
