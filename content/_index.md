@@ -8,7 +8,7 @@ call_to_action_blurb: My hope is this project will help bridge a gap and encoura
 call_to_action_button_text: Participate in the project.  <br>Reach out and tell your
   story.
 mailto: moderndayrevelations@gmail.com
-top_revelations_count: "6"
+top_revelations_count: "7"
 top_promised_land_count: "10"
 
 ---
