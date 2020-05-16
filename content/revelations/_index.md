@@ -4,3 +4,4 @@ subtitle: " stories of their relationship with The Church of Jesus Christ of Lat
   Saints"
 
 ---
+My hope is this project will help bridge a gap and incite conversation among families who feel divided by Mormonism.
