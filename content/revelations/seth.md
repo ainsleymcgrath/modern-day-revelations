@@ -6,7 +6,7 @@ occupation = ""
 portrait = "/v1589392413/14_Seth_bctqjt.jpg"
 status = "Inactive since 2012"
 upbringing = "The Church of Jesus Christ of Latter-Day Saints"
-weight = 11
+weight = 12
 
 +++
 I was doing everything I was supposed to but not getting the results I wanted.
