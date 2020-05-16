@@ -1,9 +1,14 @@
-<section class="section hero content-footer">
-  <div class="contact-footer hero-body has-text-centered">
-    <div class="contact-footer-decoration container">
-      <a class="content is-large" href="mailto:{{ .Params.mailto }}">
-	Participate in the project. Reach out and tell your story.
-      </a>
+<section class="section container content-footer">
+  <div class="columns contact-footer has-text-centered">
+    <div class="contact-footer-decoration content column is-8 is-offset-2">
+      <p class="content">
+	{{ .Params.call_to_action_blurb }}
+	<br>
+	<br>
+	<a class="is-size-4" href="mailto:{{ .Params.mailto }}">
+	  {{ .Params.call_to_action_button_text | safeHTML }}
+	</a>
+      </p>
     </div>
   </div>
 </section>
