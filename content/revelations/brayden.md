@@ -5,7 +5,7 @@ name = "Brayden"
 occupation = "Dancer and Artist"
 portrait = "/v1589559051/Miller_181028_LDS_BraydenNewby_464_hwmt77.jpg"
 status = "Inactive since 2011"
-upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+upbringing = "The Church of Jesus Christ of Latter-day Saints"
 weight = 5
 
 +++
