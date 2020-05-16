@@ -5,7 +5,7 @@ name = "Brody"
 occupation = "Higher Education Professional"
 portrait = "/v1589387732/11_Brody_dahh3l.jpg"
 status = "Excommunicated 2007"
-upbringing = "The Church of Jesus Christ of Latter-Day SaintsThe Church of Jesus Christ of Latter-day Saints"
+upbringing = "The Church of Jesus Christ of Latter-day Saints"
 weight = 8
 
 +++
