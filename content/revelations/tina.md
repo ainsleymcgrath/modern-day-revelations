@@ -13,4 +13,6 @@ Ultimately, Buddhism brought me back to The Church, after a long hard, spiritual
 
 You can’t convert to Buddhism, you can incorporate it; but whatever your spiritual roots are, those are your roots. If you want to become a strong tree, you have to sink into your roots. I had left mine for years. I was living in New York City dealing with the loss of a decade long relationship and my mother’s death. Buddhism was helping me sit with this pain. After reading this passage, that’s when I knew I was going back to my Mormon roots.
 
+Full Story to Come
+
 To see Tina's work visit [saxophonetina.org](http://saxophonetina.org) and [tinaricherson.com](https://tinaricherson.com)
