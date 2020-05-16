@@ -1,6 +1,5 @@
 +++
 born = "White Salmon, WA"
-draft = true
 located = "Portland, OR"
 name = "Tina Richerson"
 occupation = "Saxophonist"
