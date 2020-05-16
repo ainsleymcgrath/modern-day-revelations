@@ -42,6 +42,7 @@ fields:
     max: 
     step: 
 pages:
+- content/revelations/amber.md
 - content/revelations/aubri.md
 - content/revelations/brayden.md
 - content/revelations/brody.md
