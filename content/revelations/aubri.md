@@ -5,7 +5,7 @@ name = "Aubri"
 occupation = "Writer"
 portrait = "/v1589343100/20_Aubri_h5kzhn.jpg"
 status = "Inactive since 1994"
-upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+upbringing = "The Church of Jesus Christ of Latter-day Saints"
 weight = 1
 
 +++
