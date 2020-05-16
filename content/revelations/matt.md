@@ -5,7 +5,7 @@ name = "Matt"
 occupation = "Anartist and Mental Disabilities Advocate"
 portrait = "/v1589558335/Miller_181020_LDS_MattBodett_169_pvfi6v.jpg"
 status = "Inactive since 2009"
-upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+upbringing = "The Church of Jesus Christ of Latter-day Saints"
 weight = 4
 
 +++
