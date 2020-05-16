@@ -5,7 +5,7 @@ name = "Seth"
 occupation = ""
 portrait = "/v1589392413/14_Seth_bctqjt.jpg"
 status = "Inactive since 2012"
-upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+upbringing = "The Church of Jesus Christ of Latter-day Saints"
 weight = 12
 
 +++
