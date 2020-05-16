@@ -5,7 +5,7 @@ name = "Daine"
 occupation = "Medical Consultant "
 portrait = "/v1589332716/Daine_d3td1w.jpg"
 status = "Resigned Membership 2010"
-upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+upbringing = "The Church of Jesus Christ of Latter-day Saints"
 weight = 7
 
 +++
