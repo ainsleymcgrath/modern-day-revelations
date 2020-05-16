@@ -1,12 +1,13 @@
 +++
-born = ""
+born = "Salt Lake City, UT"
 draft = true
 located = "New York City, NY"
 name = "Seth"
 occupation = ""
 portrait = "/v1589392413/14_Seth_bctqjt.jpg"
-status = ""
-upbringing = "Member of The Church of Jesus Christ of Latter-Day Saints"
+status = "Inactive since 2012"
+upbringing = "The Church of Jesus Christ of Latter-Day Saints"
+weight = 11
 
 +++
 "I was doing everything I was supposed to but not getting the results I wanted.
