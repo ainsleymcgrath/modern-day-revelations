@@ -1,6 +1,5 @@
 +++
 born = "Riverside, CA"
-draft = true
 located = "Lafayette, IN"
 name = "Amber"
 occupation = "Army Veteran, Combat Medic"
