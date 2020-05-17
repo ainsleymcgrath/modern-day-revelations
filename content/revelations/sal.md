@@ -1,6 +1,5 @@
 +++
 born = "Chicago, IL, raised in San Antonio, TX"
-draft = true
 located = "Chicago, IL"
 name = "Sal"
 occupation = "Musician"
