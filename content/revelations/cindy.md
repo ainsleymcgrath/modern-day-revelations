@@ -6,7 +6,7 @@ occupation = "Missionary for The Church of Jesus Christ of Latter-Day Saints"
 portrait = "/v1589388797/05_Cindy_sjlzv2.jpg"
 status = "Converted 2003"
 upbringing = "Christianity"
-weight = 8
+weight = 50
 
 +++
 Living through my husband’s excommunication was an interesting experience. People who he had considered his best friends turned their heads when we walked down the church halls together. In fact, I would often leave and walk around the neighborhood until Relief Society was over because I couldn’t bare it alone. I never felt like I was fully accepted in that ward. I mean, I get it, most of the women were friends with my husband’s first wife. It was difficult to put so much energy into a community that I didn’t feel like wanted me there. But he never lost his testimony, and I think he used excommunication as a way to help with his guilt from his divorce. You know, he was the one who called for his own disciplinary hearing.
