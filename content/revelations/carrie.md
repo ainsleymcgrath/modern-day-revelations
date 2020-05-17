@@ -1,7 +1,7 @@
 +++
 born = "Mesa, Arizona"
 located = "Lafayette, IN"
-name = "Carrie"
+name = "Carri"
 occupation = "Lab Technician"
 portrait = "/v1589685818/02_Amber_and_Carrie_tbu0zi.jpg"
 status = "Converted in 1998"
