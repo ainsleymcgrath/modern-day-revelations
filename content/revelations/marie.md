@@ -6,7 +6,7 @@ occupation = "Marketing"
 portrait = "/v1589393211/04_Marie_of1q1t.jpg"
 status = "Resigned Membership 2015"
 upbringing = "The Church of Jesus Christ of Latter-day Saints"
-weight = nil
+weight = 99
 
 +++
 My dad’s family was Mormon Mormon, like handcart company pioneers who had eight wives in Mexico, Mormon. I have a weird, morbid fascination with the Fundamental Latter-Day Saint Church because when I read stories of people who escaped these compounds the only difference I see between me and them is that my great grandfather left and theirs stayed—they were neighbors.
