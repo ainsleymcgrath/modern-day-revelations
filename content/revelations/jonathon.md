@@ -1,6 +1,5 @@
 +++
 born = "Renton, WA"
-draft = true
 located = "Seattle, WA"
 name = "Jonathon"
 occupation = "Hair Stylist"
