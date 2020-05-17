@@ -1,6 +1,5 @@
 +++
 born = "San Jose, CA"
-draft = true
 located = "Chicago, IL"
 name = "Brigitta"
 occupation = ""
