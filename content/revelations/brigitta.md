@@ -6,7 +6,7 @@ occupation = ""
 portrait = "/v1589680901/10_Briggita_iwmjqc.jpg"
 status = "Inactive since 2001"
 upbringing = "The Church of Jesus Christ of Latter-day Saints"
-weight = 12
+weight = 9
 
 +++
 My mom is first generation Filipino. Her side of the family in the Philippines were Iglesia ni Cristo so she always had some sort of organized religion. My dad’s entire family is Mormon. They were descendants; meaning, they had family members who travelled west with Brigham Young. Even though I was born into the church, I never really thought of that history as my history.
