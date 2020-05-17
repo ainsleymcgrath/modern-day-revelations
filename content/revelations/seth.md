@@ -2,7 +2,7 @@
 born = "Salt Lake City, UT"
 located = "New York City, NY"
 name = "Seth"
-occupation = ""
+occupation = "Landscape Architect"
 portrait = "/v1589392413/14_Seth_bctqjt.jpg"
 status = "Inactive since 2012"
 upbringing = "The Church of Jesus Christ of Latter-day Saints"
