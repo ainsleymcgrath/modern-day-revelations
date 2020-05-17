@@ -1,6 +1,5 @@
 +++
 born = "Mesa, Arizona"
-draft = true
 located = "Lafayette, IN"
 name = "Carrie"
 occupation = "Lab Technician"
