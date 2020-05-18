@@ -1,6 +1,5 @@
 +++
 born = "Spokane, WA"
-draft = true
 located = "Seattle, WA"
 name = "Sarah"
 occupation = "Manager"
