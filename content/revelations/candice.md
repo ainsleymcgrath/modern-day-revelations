@@ -1,6 +1,5 @@
 +++
 born = "Kansas City, KS"
-draft = true
 located = "Chicago, IL"
 name = "Candice"
 occupation = "Commodities Trader"
