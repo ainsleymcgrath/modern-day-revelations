@@ -1,7 +1,7 @@
 +++
 born = "Spokane, WA"
 located = "Seattle, WA"
-name = "Sarah"
+name = "Lou"
 occupation = "Manager"
 portrait = "/v1589731763/17_Sarah_bxvujd.jpg"
 status = "Inactive since 2017, Resigned 2019"
