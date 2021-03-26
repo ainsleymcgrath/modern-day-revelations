@@ -12,5 +12,8 @@
   },
   "author": "Ainsley McGrath",
   "license": "ISC",
-  "homepage": "https://github.com/ainsleymcgrath/modern-day-revelations#readme"
+  "homepage": "https://github.com/ainsleymcgrath/modern-day-revelations#readme",
+  "dependencies": {
+    "bulma": "^0.9.2"
+  }
 }
