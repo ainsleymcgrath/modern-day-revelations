@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     {{ $scss := resources.Get "styles.scss" }}
     {{ $style := $scss | resources.ExecuteAsTemplate "styles.css" . | toCSS }}
-    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}">
+    <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}">
     <title>{{ .Site.Title }}</title>
   </head>
   <body>
