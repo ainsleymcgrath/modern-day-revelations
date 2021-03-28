@@ -1,7 +1,7 @@
 {{ $tab := "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" }}
 <div class="revelation-list-item columns is-gapless is-multiline is-centered">
     <figure class="image column is-9">
-      <a href="{{ .Permalink }}" class="person-name-link">
+      <a href="{{ .RelPermalink }}" class="person-name-link">
       <img
 	alt="Small photograph of {{ .Params.name }}"
 	src="{{ .Site.Params.cloudinary_url }}{{ .Params.portrait }}"
@@ -10,7 +10,7 @@
       </a>
     </figure>
     <p class="content column is-9 is-size-7 has-text-centered">
-      <a href="{{ .Permalink }}" class="person-name-link">
+      <a href="{{ .RelPermalink }}" class="person-name-link">
       {{ .Params.name }} 
       {{ if isset .Params "status" }} {{ $tab | safeHTML }} {{ .Params.status }} {{ end }}
       </a>
